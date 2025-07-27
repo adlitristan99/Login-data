@@ -1,0 +1,16 @@
+[
+  {
+    "id": "91a51286b6a64272",
+    "username": "user123",
+    "Key": "pass123",
+    "allowOffline": true,
+    "expiresAt": "2025-12-31"
+  },
+  {
+    "id": "android_id_lain",
+    "username": "admin",
+    "Key": "adminpass",
+    "allowOffline": false,
+    "expiresAt": "2025-08-30"
+  }
+]
